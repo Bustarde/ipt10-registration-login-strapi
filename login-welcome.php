@@ -10,7 +10,7 @@
     
     <div class="mt-4 p-5 bg-primary text-white rounded" style="text-align: center">
     <h1>Welcome <?php echo $_GET['username'];?> !</h1>
-    <h3>You have logged in with the email address <?php echo $_GET['email'];?></h3>
+    <h3>You registered with the email address <?php echo $_GET['email'];?></h3>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
