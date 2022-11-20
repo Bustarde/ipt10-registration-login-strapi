@@ -1,0 +1,17 @@
+{
+    "name": "drieb/ipt10-registration-login-strapi",
+    "autoload": {
+        "psr-4": {
+            "Drieb\\Ipt10RegistrationLoginStrapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bustarde",
+            "email": "bustarde.audriel@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
